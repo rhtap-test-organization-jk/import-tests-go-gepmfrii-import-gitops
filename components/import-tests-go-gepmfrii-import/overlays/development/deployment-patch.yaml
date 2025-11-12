@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/import-tests-go-gepmfrii-import:42705e0bc8b0b3661437082fbc264232ccad8e54@sha256:56d84ee8811672fec095cf4f50cedac604ede375bc4f78a42462afa082a90d37
+        - image: quay.io/rhtap_qe/import-tests-go-gepmfrii-import:a207619e5c65a7901272474425a3f34013fd4ce5@sha256:7ad2f8f8d85421ae491dcaa48dd00c7ea1c9b54f7042b9dfcd4b63488892d76c
           name: container-image
